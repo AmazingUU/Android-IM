@@ -16,8 +16,10 @@
 11. 新建群页面
 12. 群联系人选择页面
 13. 群详情
+
 ### 效果图
 <img src="https://github.com/AmazingUU/Android-IM/raw/develop/IM/mdPicRes/IM.gif" width = "300" height = "500" alt="IM" align=left /><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ### 注意事项
 项目里的APPKey只是为了让项目正常运行，实际使用过程中请替换成自己的APPKey。
 
