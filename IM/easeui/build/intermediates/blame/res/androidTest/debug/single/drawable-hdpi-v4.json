@@ -168,12 +168,12 @@
         "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_chat_video_mask_to.9.png"
     },
     {
-        "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ee_8.png",
-        "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ee_8.png"
-    },
-    {
         "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_mm_listitem_disable.9.png",
         "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_mm_listitem_disable.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ee_8.png",
+        "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ee_8.png"
     },
     {
         "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ee_5.png",
@@ -384,12 +384,12 @@
         "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_unread_count_bg.9.png"
     },
     {
-        "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_dx_checkbox_on.png",
-        "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_dx_checkbox_on.png"
-    },
-    {
         "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_login_error_icon.png",
         "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_login_error_icon.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_dx_checkbox_on.png",
+        "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_dx_checkbox_on.png"
     },
     {
         "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_voice_unread.png",
@@ -452,11 +452,11 @@
         "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ee_29.png"
     },
     {
-        "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_default_avatar.png",
-        "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_default_avatar.png"
-    },
-    {
         "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_dx_checkbox_off.png",
         "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_dx_checkbox_off.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_default_avatar.png",
+        "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_default_avatar.png"
     }
 ]

@@ -3,17 +3,19 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
+
     <RelativeLayout
-        android:background="@android:color/holo_blue_light"
         android:layout_width="match_parent"
-        android:layout_height="60dp">
+        android:layout_height="60dp"
+        android:background="@android:color/holo_blue_light">
+
         <TextView
-            android:text="设置"
-            android:textSize="25sp"
-            android:layout_centerInParent="true"
-            android:textColor="@android:color/white"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="我"
+            android:textColor="@android:color/white"
+            android:textSize="25sp" />
     </RelativeLayout>
 
     <ScrollView
@@ -21,21 +23,49 @@
         android:layout_height="0dp"
         android:layout_weight="1">
 
-        <TextView
-            android:layout_width="wrap_content"
+        <LinearLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:text="settings"
-            android:textSize="30sp" />
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/em_default_avatar" />
+
+                <TextView
+                    android:id="@+id/tv_setting_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text="名称"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <TextView
+                android:background="@android:color/darker_gray"
+                android:layout_width="match_parent"
+                android:layout_height="1dp" />
+
+        </LinearLayout>
+
+
     </ScrollView>
-    
+
     <Button
         android:id="@+id/btn_setting_logout"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@android:color/holo_red_light"
         android:text="退出"
-        android:textSize="20sp"
         android:textAllCaps="false"
         android:textColor="@android:color/white"
-        android:background="@android:color/holo_red_light"
-        android:layout_width="match_parent"
-        android:layout_height="60dp" />
+        android:textSize="20sp" />
 </LinearLayout>

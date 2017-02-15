@@ -30,7 +30,7 @@
             style="@style/MainButtonStyle"/>
         <RadioButton
             android:id="@+id/rb_main_setting"
-            android:text="设置"
+            android:text="我"
             style="@style/MainButtonStyle" />
 
     </RadioGroup>

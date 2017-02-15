@@ -44,16 +44,16 @@
         "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ease_close_icon.png"
     },
     {
-        "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ease_open_icon.png",
-        "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ease_open_icon.png"
-    },
-    {
         "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ease_new_friends_icon.png",
         "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ease_new_friends_icon.png"
     },
     {
         "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ease_chat_item_file.png",
         "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ease_chat_item_file.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ease_open_icon.png",
+        "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ease_open_icon.png"
     },
     {
         "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ease_chat_voice_call_self.png",
@@ -84,12 +84,12 @@
         "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ease_groups_icon.png"
     },
     {
-        "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ease_chat_voice_call_receive.png",
-        "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ease_chat_voice_call_receive.png"
-    },
-    {
         "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ease_default_avatar.png",
         "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ease_default_avatar.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ease_chat_voice_call_receive.png",
+        "source": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ease_chat_voice_call_receive.png"
     },
     {
         "merged": "D:\\GithubMy\\Android-IM\\IM\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ease_chat_send_btn_pressed.9.png",

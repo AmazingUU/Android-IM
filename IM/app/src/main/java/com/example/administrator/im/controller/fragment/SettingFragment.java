@@ -8,6 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.administrator.im.R;
@@ -23,6 +24,7 @@ import com.hyphenate.chat.EMClient;
 //设置页面
 public class SettingFragment extends Fragment {
     private Button btn_setting_logout;
+    private TextView tv_setting_name;
 
     @Nullable
     @Override
@@ -30,11 +32,13 @@ public class SettingFragment extends Fragment {
         View view = View.inflate(getActivity(), R.layout.fragment_setting, null);
 
         initView(view);
+
         return view;
     }
 
     private void initView(View view) {
         btn_setting_logout = (Button) view.findViewById(R.id.btn_setting_logout);
+        tv_setting_name= (TextView) view.findViewById(R.id.tv_setting_name);
     }
 
     @Override
@@ -45,8 +49,10 @@ public class SettingFragment extends Fragment {
     }
 
     private void initData() {
-        //在button上显示当前用户名称
-        btn_setting_logout.setText("退出登录（" + EMClient.getInstance().getCurrentUser() + ")");
+        //显示当前用户名称
+        tv_setting_name.setText(EMClient.getInstance().getCurrentUser());
+        
+        btn_setting_logout.setText("退出登录");
 
         //退出登录的逻辑处理
         btn_setting_logout.setOnClickListener(new View.OnClickListener() {
